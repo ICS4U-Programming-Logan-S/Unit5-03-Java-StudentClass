@@ -1,0 +1,8 @@
+There are 6 students.
+Clara Klayton is in Grade 12 without an iep.
+Bill A. Wilson is in Grade 12 with an iep.
+Sirene Malkovic is in Grade 10 without an iep.
+R34L N4M3 is in Grade 13 without an iep.
+Moussa E. Nwga is in Grade 11 with an iep.
+Name M. Last is in Grade 9 with an iep.
+Error.
